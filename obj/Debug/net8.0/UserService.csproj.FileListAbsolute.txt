@@ -172,3 +172,4 @@ C:\Users\Mind-Graph\source\repos\UserService\UserService\bin\Debug\net8.0\tr\Mic
 C:\Users\Mind-Graph\source\repos\UserService\UserService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\Mind-Graph\source\repos\UserService\UserService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\Mind-Graph\source\repos\UserService\UserService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Mind-Graph\source\repos\UserService\UserService\obj\Debug\net8.0\UserService.sourcelink.json
